@@ -1,5 +1,6 @@
-import programmers.CopyClass;
-import programmers.SelectTangerine;
+package main;
+
+import main.programmers.CopyClass;
 
 public class Application {
 
