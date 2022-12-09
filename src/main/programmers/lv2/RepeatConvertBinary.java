@@ -1,4 +1,4 @@
-package main.programmers;
+package main.programmers.lv2;
 
 public class RepeatConvertBinary {
     // 이진 반복 변환하기

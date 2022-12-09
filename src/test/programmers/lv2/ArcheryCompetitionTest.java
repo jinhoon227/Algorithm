@@ -1,7 +1,6 @@
-package programmers;
+package programmers.lv2;
 
-import main.programmers.ArcheryCompetition;
-import main.programmers.DiscountEvent;
+import main.programmers.lv2.ArcheryCompetition;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

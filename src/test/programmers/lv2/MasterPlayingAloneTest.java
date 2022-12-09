@@ -1,6 +1,6 @@
-package programmers;
+package programmers.lv2;
 
-import main.programmers.MasterPlayingAlone;
+import main.programmers.lv2.MasterPlayingAlone;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

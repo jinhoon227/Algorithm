@@ -1,6 +1,6 @@
-package programmers;
+package programmers.lv2;
 
-import main.programmers.CorrectParentheses;
+import main.programmers.lv2.CorrectParentheses;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

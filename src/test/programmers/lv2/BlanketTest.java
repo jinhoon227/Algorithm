@@ -1,7 +1,6 @@
-package programmers;
+package programmers.lv2;
 
-import main.programmers.ArcheryCompetition;
-import main.programmers.Blanket;
+import main.programmers.lv2.Blanket;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
-package programmers;
+package programmers.lv2;
 
-import main.programmers.RepeatConvertBinary;
+import main.programmers.lv2.RepeatConvertBinary;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

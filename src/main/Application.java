@@ -1,6 +1,6 @@
 package main;
 
-import main.programmers.CopyClass;
+import main.programmers.lv2.CopyClass;
 
 public class Application {
 
