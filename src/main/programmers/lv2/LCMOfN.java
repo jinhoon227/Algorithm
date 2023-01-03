@@ -1,4 +1,4 @@
-package programmers.lv2;
+package main.programmers.lv2;
 
 public class LCMOfN {
 
